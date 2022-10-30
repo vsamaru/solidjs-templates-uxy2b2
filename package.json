@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "description": "",
   "scripts": {
-    "serve": "serve -s ."
+    "serve": "npx sspy --cdkoutput cdkOutput.json"
   },
   "dependencies": {
     "serve": "^14.0.1"

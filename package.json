@@ -1,0 +1,11 @@
+{
+  "name": "vite-template-solid",
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {
+    "serve": "serve -s ."
+  },
+  "dependencies": {
+    "serve": "^14.0.1"
+  }
+}
